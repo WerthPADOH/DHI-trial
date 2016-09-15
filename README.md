@@ -14,6 +14,7 @@ Most of these rules are common sense. Remember: this is a *public* repository. Y
   - Personally identifiable information
   - Contact information for anyone besides yourself
   - Server paths (these are potential security holes)
+1. Do not make anyone outside the DHI a collaborator.
 
 ## Suggestions
 
