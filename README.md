@@ -20,6 +20,11 @@ Most of these rules are common sense. Remember: this is a *public* repository. Y
 - Only add files that are human-readable. Difference tracking doesn't make much sense otherwise. If you want to upload a data set, then use a text version (CSV, fixed-width, etc.).
 - Try to keep the files small. Large data files are rarely edited directly, so it's better to simply back them up than version.
 - Forking is your friend, and not that hard.
+- Please try out every feature you can (except "Delete repository") and let the rest of us know how it goes.
+
+## Collaboration
+
+Since this is just a trial repository, the Issues section can also be used as a discussion forum. The more we use it, the less often we need to set up face-to-face meetings.
 
 ## Git
 
