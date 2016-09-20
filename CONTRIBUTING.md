@@ -1,6 +1,6 @@
 # Contributing to DHI-trial
 
-Everyone is welcome to contribute to the repo, whether or not they're part of the trial group. Before helping out, please [set up a GitHub account](https://github.com). Those who aren't collaborators can freely create issues in the [Issues](Issues) tab. Changes can be suggested using [pull requests][]. This repo will be maintained as a centralized hub for the DHI's GitHub organization. It will have project templates, help guides, and best practices.
+Everyone is welcome to contribute to the repo, whether or not they're part of the trial group. Before helping out, please [set up a GitHub account](https://github.com). Those who aren't collaborators can freely create issues in the [Issues][] tab. Changes can be suggested using [pull requests][]. This repo will be maintained as a centralized hub for the DHI's GitHub organization. It will have project templates, help guides, and best practices.
 
 ## Issues
 
@@ -23,6 +23,8 @@ These are files with (mostly) arbitrary content. They only exist to be added, ed
 
 ## Help guides
 
-After a feature has been tested and a "best practice" approach to it for the DHI has been decided, this approach will be recorded in the repo's [wiki](wiki).
+After a feature has been tested and a "best practice" approach to it for the DHI has been decided, this approach will be recorded in the repo's [Wiki][].
 
+[Issues]: https://github.com/WerthPADOH/DHI-trial/issues
+[Wiki]: https://github.com/WerthPADOH/DHI-trial/wiki
 [pull requests]: https://help.github.com/articles/creating-a-pull-request/
